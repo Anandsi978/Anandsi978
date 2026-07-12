@@ -146,7 +146,7 @@ A scalable e-learning platform deployed on AWS EC2, with S3 handling secure and 
 
 <div align="center">
 
-<a href="https://linkedin.com/in/anand-singh" target="_blank">
+<a href="https://www.linkedin.com/in/anand-singh-b3a242252/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=7dd3fc" alt="LinkedIn"/>
 </a>
 <a href="mailto:anandsi1726j@gmail.com">
